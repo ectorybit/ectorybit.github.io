@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ectorybit.github.io/sitemap
+Sitemap: https://ectorybit.github.io/app/sitemap
+Sitemap: https://ectorybit.github.io/assets/sitemap
+Sitemap: https://ectorybit.github.io/css/sitemap
+Sitemap: https://ectorybit.github.io/includes/sitemap
+Sitemap: https://ectorybit.github.io/item/sitemap
+Sitemap: https://ectorybit.github.io/src/sitemap
